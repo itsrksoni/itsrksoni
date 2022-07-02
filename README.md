@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Rohit Kumar, Currently living in Bangalore.</h1>
 <h3 align="center">I am technology enthusiast, competent, well-focused, Java Based Web Application Developer👨‍💻. I am skilled in HTML, CSS,Basic Javascript, Core Java,MySQL,JDBC,Servlet,JSP,Spring boot and also familiar with the Social Media Marketing,Hostings and SEO. When I am not doing technicals, I love listening music, watching movies, working out and exploring what's happening around world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
